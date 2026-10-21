@@ -13,5 +13,7 @@
 > 总能找到一个合适的称呼，不是吗
 
 ### 关于联系方式
- - dc可以找到我，用户名是Circulation，并不常用
+ - dc可以找到我，用户名是circulate233_36615，并不常用
  - 在神秘的QQ群里可以找到我，也许你能找到嗯哼
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Circulate233)](https://github.com/stats-organization/github-stats-extended)
